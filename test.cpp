@@ -3,7 +3,8 @@
 using namespace std;
 
 int main(){
-    cout<<"hello world suraj";
+    float x=5/2;
+    cout<<ceil(x);
     return 0;
 
 }
